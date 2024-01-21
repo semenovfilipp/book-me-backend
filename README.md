@@ -22,8 +22,6 @@
 ## 4. [Summary](#summary)
 
 
-
-
 ## Overview
 The project is a microservices-based application designed to facilitate user invitations via email. It employs a set of modern technologies for microservices communication, service discovery, configuration management, and tracking service interactions. The development process included learning and implementing technologies such as Open Feign, Eureka, Config Server, Zipkin, and Docker.
 ## Goal to learn
